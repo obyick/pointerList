@@ -1,7 +1,6 @@
 # Programação Avançada - Lista de Ponteiros
-
-Contribuidores
-<!--  -->
-- Matheus Erick Barros
-<!--  -->
-- Gabriel Gonzaga
+### Contribuidores    
+```python
+Matheus Erick Barros    
+Gabriel Gonzaga
+```
