@@ -1,6 +1,6 @@
-# Programação Avançada - Lista de Ponteiros
-### Contribuidores    
+# Programação Avançada - Lista de Ponteiros - `DCA1202`
+### Contribuidores
 ```python
-Matheus Erick Barros    
-Gabriel Gonzaga
+20200078664 Matheus Erick Barros
+20200073247 Gabriel Gonzaga
 ```
